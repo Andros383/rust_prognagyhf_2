@@ -1,0 +1,4 @@
+ADD 0 1 2
+STD_INP 0 120
+STD_INP 1 62
+OUT 2 Output

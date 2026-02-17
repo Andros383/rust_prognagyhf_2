@@ -1,0 +1,1 @@
+std::result::Result<std::boxed::Box<dyn components::Component>, components::ParseComponentError>

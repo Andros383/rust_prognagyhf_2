@@ -1,0 +1,1 @@
+std::vec::Vec<for<'a, 'b> fn(&'a board::Board, &'b str) -> std::result::Result<std::boxed::Box<dyn components::Component>, components::ParseComponentError>>

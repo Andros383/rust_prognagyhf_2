@@ -1,0 +1,5 @@
+Kapuk szintaxisa:
+KAPUNÉV,ELSŐ_WIRE_ID, MÁSODIK_WIRE_ID
+
+
+STDINP, ADD, INP
